@@ -16,7 +16,7 @@ https://www.econforge.org/interpolation.py/
 ## Link Arch Linux Repository 
 ![https://aur.archlinux.org/packages/python-interpolation/](https://aur.archlinux.org/packages/python-interpolation/)
 
-## Instação do pacote 
+## installing the package
 ### AUR 
 ```
 $ wget https://aur.archlinux.org/cgit/aur.git/snapshot/python-interpolation.tar.gz
@@ -26,13 +26,14 @@ $ wget https://aur.archlinux.org/cgit/aur.git/snapshot/python-interpolation.tar.
 $ git clone https://github.com/LuizAlexandre21/python_interpolation_arch_linux.git
 ```
 
-### Instalando o pacote 
+### installing the package
+```
 $ tar -xzvf python-interpolation.tar.gz 
 $ cd python-interpolation 
 $ makepkg -si 
 ```
 
-## Contato 
+## Contact
 
 :bust_in_silhouette: Luiz Alexandre Moreira Barros 
 
