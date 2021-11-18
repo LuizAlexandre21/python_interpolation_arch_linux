@@ -3,10 +3,10 @@
 
 ## Meta 
 
-**License**: BSD License (BSD-2-Clause)
-**Author**: Pablo Winant 
-**Author Email**: pablo.winant@gmail.com
-**Requires**: Python >=3.7, <4.0
+- **License**: BSD License (BSD-2-Clause)
+- **Author**: Pablo Winant 
+= **Author Email**: pablo.winant@gmail.com
+= **Requires**: Python >=3.7, <4.0
 
 ## Documentação Official 
 ```
